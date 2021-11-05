@@ -1,5 +1,3 @@
-//package softwwareregistration;
-
 public class Softwareregistration {
 
 	private static int nombreDeLicenceMax = 3;

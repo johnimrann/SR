@@ -1,5 +1,3 @@
-//package fr.imrann.softwwareregistration;
-
 public class Main {
 
 	public static void main(String[] args) {
@@ -17,11 +15,8 @@ public class Main {
  Softwareregistration license4 = new Softwareregistration("license4");
  license1.getLicense();
  
- // Softwareregistration license5 = new Softwareregistration("license5");
+ Softwareregistration license5 = new Softwareregistration("license5");
  license1.getLicense();
-
-
- 
  
 	}
 
