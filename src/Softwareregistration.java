@@ -30,7 +30,7 @@ public class Softwareregistration {
 	    
 	    if(getNombreDeLicenceMax()>0) {
 	    	nombreDeLicenceMax --;
-	    System.out.println("Nouvelle license acheté : " + this.license + " - Il vous reste : " + this.nombreDeLicenceMax + " licenses ");
+	    System.out.println("Nouvelle licence acheté : " + this.license + " - Il vous reste : " + this.nombreDeLicenceMax + " licenses ");
 	    }
 	    else
 	    { 
