@@ -18,6 +18,9 @@ public class Main {
  Softwareregistration license5 = new Softwareregistration("license5");
  license1.getLicense();
  
+Tableau.printTab(new int[] {0,9,8});
+	}
+ 
 	}
 
-}
+
