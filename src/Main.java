@@ -1,3 +1,5 @@
+
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -19,6 +21,9 @@ public class Main {
  license1.getLicense();
  
  Tableau.printTab(new int[] {0,9,1,4});
+ 
+ Liste l = new Liste();
+ System.out.println(l.ajouterValeur(4).size());
 	}
  
 	}
